@@ -200,7 +200,7 @@ wfdb               - ECG database utilities
 ## License
 
 This project uses the MIT-BIH Noise Stress Test Database. Please refer to the original database documentation for usage terms.
-
+Author/Sana Elbakry
 ## Contact & Support
 
 For questions or improvements, please refer to the project notebook for implementation details.
